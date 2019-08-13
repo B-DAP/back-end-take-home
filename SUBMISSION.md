@@ -1,4 +1,4 @@
-# Tripbuilder
+# TripBuilder
 
 MVC Application on ASP.NET Core 2.1 framework with Breadth First Search algorithm for finding shortest path between origin and destionation airports
 
